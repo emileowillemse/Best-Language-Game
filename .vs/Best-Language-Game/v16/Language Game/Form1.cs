@@ -1,18 +1,26 @@
 ﻿using System;
 using System.Windows.Forms;
+using WMPLib;
+using System.Media;
 
 namespace Language_Game
 {
     public partial class Form1 : Form
     {
+        System.Media.SoundPlayer bgMusic = new System.Media.SoundPlayer();
         public Form1()
         {
             InitializeComponent();
+            bgMusic.SoundLocation = "quizaudio.wav";
+            
+
         }
+
 
         private void Form1_Load(object sender, EventArgs e)
         {
             MaximizeBox = false;
+            bgMusic.Play();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -40,8 +48,20 @@ namespace Language_Game
             return;
         }
 
+        private void button4_Click(object sender, EventArgs e)
+        {
+            bgMusic.Play();
+            Mute.Visible = true;
+            Start.Visible = false;
 
+        }
 
+        private void button5_Click(object sender, EventArgs e)
+        {
+            bgMusic.Stop();
+            Mute.Visible = false;
+            Start.Visible = true;
 
+        }
     }
 }

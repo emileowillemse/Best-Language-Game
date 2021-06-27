@@ -1,0 +1,46 @@
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\bin\Release\Language Game.exe.config
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\bin\Release\Language Game.exe
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\bin\Release\Language Game.pdb
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language Game.csproj.AssemblyReference.cache
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.About.resources
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.AfrikaansLevel1.resources
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.AfrikaansLevel2.resources
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.AfrikaansLevels.resources
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.EnglishLevel1.resources
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.EnglishLevel2.resources
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.EnglishLevels.resources
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.Form1.resources
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.Languages.resources
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.Properties.Resources.resources
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language Game.csproj.GenerateResource.cache
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language Game.csproj.CoreCompileInputs.cache
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language Game.exe
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language Game.pdb
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\bin\Release\Interop.WMPLib.dll
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Interop.WMPLib.dll
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Raaziq\source\repos\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language Game.csproj.ResolveComReference.cache
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\bin\Release\Language Game.exe.config
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\bin\Release\Language Game.exe
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\bin\Release\Language Game.pdb
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\bin\Release\Interop.WMPLib.dll
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\bin\Release\AxInterop.WMPLib.dll
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language Game.csproj.AssemblyReference.cache
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Interop.WMPLib.dll
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\AxInterop.WMPLib.dll
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language Game.csproj.ResolveComReference.cache
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.About.resources
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.AfrikaansLevel1.resources
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.AfrikaansLevel2.resources
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.AfrikaansLevels.resources
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.EnglishLevel1.resources
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.EnglishLevel2.resources
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.EnglishLevels.resources
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.Form1.resources
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.Languages.resources
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language_Game.Properties.Resources.resources
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language Game.csproj.GenerateResource.cache
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language Game.csproj.CoreCompileInputs.cache
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language Game.exe
+C:\Users\emile\OneDrive\Desktop\IT 2021 work\ICT\sunday\Language-Quiz-Emileo-Mohammed-\.vs\Language-Quiz-Emileo-Mohammed-\v16\Language Game\Language Game\obj\Release\Language Game.pdb

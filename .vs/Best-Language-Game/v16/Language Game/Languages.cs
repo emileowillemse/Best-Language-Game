@@ -46,5 +46,10 @@ namespace Language_Game
             F12.Show();
             this.Hide();
         }
+
+        private void Mute_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

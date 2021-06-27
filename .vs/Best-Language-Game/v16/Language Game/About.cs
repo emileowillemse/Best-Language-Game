@@ -12,9 +12,11 @@ namespace Language_Game
 {
     public partial class About : Form
     {
+        
         public About()
         {
             InitializeComponent();
+           
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -33,6 +35,19 @@ namespace Language_Game
 
         private void label1_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void Mute_Click(object sender, EventArgs e)
+        {
+   
+        }
+
+        private void Start_Click(object sender, EventArgs e)
+        {
+            
+            
+            
 
         }
     }
